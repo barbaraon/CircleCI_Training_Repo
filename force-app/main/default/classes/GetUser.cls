@@ -1,7 +1,7 @@
-/**
- Get all users
-**/
-
+  /**
+     * @description Users
+     * @return  Users
+  */
 public with sharing class GetUser {
 
 

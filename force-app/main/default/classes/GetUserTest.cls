@@ -1,6 +1,7 @@
-/**
- Test if the org has at least one user
-**/
+  /**
+     * @description Users
+     * @return  if the org has at at least one user
+  */
 
 @isTest
 private class  GetUserTest {
