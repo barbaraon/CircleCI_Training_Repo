@@ -1,4 +1,4 @@
-public class GetUser {
+public class with sharing GetUser {
     public static List<User> getUser() {
         return [ SELECT Name, AboutMe, Title, SmallPhotoUrl FROM User WITH SECURITY_ENFORCED];
     }
