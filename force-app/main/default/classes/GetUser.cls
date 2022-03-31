@@ -1,6 +1,6 @@
 public with sharing class GetUser {
 
-    public GetUser(){}
+
    
     public static List<User> getUserOrg() {
 
