@@ -2,6 +2,6 @@
 private class GetUserTest {
     @isTest 
     static void myTest() {
-        System.assertEquals(getUser.getUser().isEmpty(),false, 'Existem Usuarios');
+        System.assertEquals(GetUser.getUser().isEmpty(),false, 'Existem Usuarios');
     }
 }
