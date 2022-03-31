@@ -1,3 +1,7 @@
+/**
+ Test if the org has at least one user
+**/
+
 @isTest
 private class  GetUserTest {
     @isTest 

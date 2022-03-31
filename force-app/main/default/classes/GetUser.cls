@@ -1,3 +1,7 @@
+/**
+ Get all users
+**/
+
 public with sharing class GetUser {
 
 
